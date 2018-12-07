@@ -1,3 +1,9 @@
+# DISCLAIMER
+
+ORIGINAL PROJECT https://github.com/Microsoft/BotFramework-DirectLineJS
+
+THIS IS A BETA TESTING PROJECT TO MAKE THIS PROJECT COMPATIBLE WITH ANGULAR 6 RXJS VERSION MISMATCH ISSUE. PLEASE DONT USE FOR PRODUCTION PURPOSE. THIS MAY NOT GIVE YOU YOUR INTENDED BEHAVIOR.
+
 # BotFramework-DirectLineJS
 
 [![Build Status](https://travis-ci.org/Microsoft/BotFramework-DirectLineJS.svg?branch=master)](https://travis-ci.org/Microsoft/BotFramework-DirectLineJS)
