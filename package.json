@@ -1,6 +1,6 @@
 {
-  "name": "botframework-directlinea-angular6",
-  "version": "0.10.1-0",
+  "name": "botframework-directline-angular6",
+  "version": "1.0.0",
   "description": "client library for the Microsoft Bot Framework Direct Line 3.0 protocol. THIS IS A BETA TESTING PROJECT TO MAKE THIS PROJECT COMPATIBLE WITH ANGULAR 6 RXJS VERSION MISMATCH ISSUE. PLEASE DONT USE FOR PRODUCTION PURPOSE. THIS MAY NOT GIVE YOU YOUR INTENDED BEHAVIOR.",
   "main": "built/directLine.js",
   "types": "built/directLine.d.ts",
@@ -17,7 +17,7 @@
     "type": "git",
     "url": "https://github.com/demonking99/BotFramework-DirectLineAngular6"
   },
-  "author": "Microsoft Corp",
+  "author": "demonking99",
   "license": "MIT",
   "dependencies": {
     "rxjs": "^6.3.3"
