@@ -1,6 +1,6 @@
 {
-  "name": "botframework-directline-angular6",
-  "version": "1.0.0",
+  "name": "@lifeai/botframework-directline-angular6",
+  "version": "1.0.2",
   "description": "client library for the Microsoft Bot Framework Direct Line 3.0 protocol. THIS IS A BETA TESTING PROJECT TO MAKE THIS PROJECT COMPATIBLE WITH ANGULAR 6 RXJS VERSION MISMATCH ISSUE. PLEASE DONT USE FOR PRODUCTION PURPOSE. THIS MAY NOT GIVE YOU YOUR INTENDED BEHAVIOR.",
   "main": "built/directLine.js",
   "types": "built/directLine.d.ts",
@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/demonking99/BotFramework-DirectLineAngular6"
+    "url": "https://github.com/LIFEAI/BotFramework-DirectLineAngular6"
   },
-  "author": "demonking99",
+  "author": "poul-kg",
   "license": "MIT",
   "dependencies": {
-    "rxjs": "6.0.0"
+    "rxjs": "6.5.2"
   },
   "devDependencies": {
-    "rxjs-compat": "6.0.0",
+    "rxjs-compat": "6.5.2",
     "source-map-loader": "^0.1.5",
     "ts-loader": "^1.3.3",
     "typescript": "^2.3.2",
